@@ -6,8 +6,11 @@ A Flutter written floating window view for Android & iOS.
 
 ### iOS
 
+<img src="https://github.com/j796160836/FloatingWindow_flutter/blob/master/screenshots/flutter_ios.gif?raw=true" width="280" />
+
 ### Android
 
+<img src="https://github.com/j796160836/FloatingWindow_flutter/blob/master/screenshots/flutter_android.gif?raw=true" width="280" />
 
 ## Usage
 
@@ -21,7 +24,7 @@ var floatingWindow = FloatingWindowContainer(
 
 It have two parameters:
 
-- **child:** Your original layout will be.  
+- **child:** Your rest layout will be.  
 (Gray background with a button of example layout)
 - **floatingWidget:** The layout of draggable floating widget.  
 (Yellow background of example layout)
